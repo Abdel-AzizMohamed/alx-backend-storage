@@ -1,2 +1,2 @@
-// Display all databases
-show dbs;
+// Display all databases.
+show databases;

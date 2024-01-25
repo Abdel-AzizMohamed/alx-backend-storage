@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Define a function that List all documents"""
 
 def list_all(mongo_collection):

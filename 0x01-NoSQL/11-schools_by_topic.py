@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Define a function that list docments based on topic"""
 
 def schools_by_topic(mongo_collection, topic):
